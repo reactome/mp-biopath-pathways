@@ -1,0 +1,84 @@
+pathway_id	pathway_name	nodes	edges	senarios	key_outputs	mp_biopath_vs_experimental_correct	mp_biopath_vs_experimental_incorrect	mp_biopath_vs_experimental_acc	reactome_curator_vs_experimental_correct	reactome_curator_vs_experimental_incorrect	reactome_curator_vs_experimental_acc	mp_biopath_vs_reactome_correct	mp_biopath_vs_reactome_incorrect	mp_biopath_vs_reactome_acc
+909733	Interferon_alpha/beta_signaling	148	156	17	28							472	4	0.9915966386554622
+195721	Signaling_by_WNT	816	953	15	37	36	15	0.7058823529411765	49	2	0.9607843137254902	431	124	0.7765765765765765
+8878171	Transcriptional_regulation_by_RUNX1	569	729	59	42							2096	382	0.8458434221146085
+3247509	Chromatin_modifying_enzymes	710	887	25	9							207	18	0.92
+8878166	Transcriptional_regulation_by_RUNX2	394	461	41	22							430	472	0.47671840354767187
+201451	Signaling_by_BMP	78	83	29	4							64	52	0.5517241379310345
+5693571	Nonhomologous_End-Joining_(NHEJ)	107	107	33	1							33	0	1
+373753	Nephrin_family_interactions	57	56	7	7							49	0	1
+8864260	Transcriptional_regulation_by_the_AP-2_(TFAP2)_family_of_transcription_factors	144	176	29	18							465	57	0.8908045977011494
+69242	S_Phase	411	440	23	9	16	9	0.64	23	2	0.92	150	57	0.7246376811594203
+388841	Costimulation_by_the_CD28_family	204	213	25	8							188	12	0.94
+8854691	Interleukin-20_family_signaling	142	163	17	5							82	3	0.9647058823529412
+983169	Class_I_MHC_mediated_antigen_processing_&_presentation	804	851	31	4							67	57	0.5403225806451613
+1227986	Signaling_by_ERBB2	212	246	21	9	41	8	0.8367346938775511	41	8	0.8367346938775511	187	2	0.9894179894179894
+375165	NCAM_signaling_for_neurite_out-growth	264	265	11	10							107	3	0.9727272727272728
+1257604	PIP3_activates_AKT_signaling	784	1053	33	14	177	23	0.885	186	14	0.93	434	28	0.9393939393939394
+5627117	RHO_GTPases_Activate_ROCKs	37	37	23	4							92	0	1
+1980145	Signaling_by_NOTCH2	104	122	23	5							100	15	0.8695652173913043
+194840	Rho_GTPase_cycle	159	162	29	2							30	28	0.5172413793103449
+73942	DNA_Damage_Reversal	54	91	9	8							72	0	1
+8848021	Signaling_by_PTK6	209	226	15	15							219	6	0.9733333333333334
+1266695	Interleukin-7_signaling	109	111	9	6							52	2	0.9629629629629629
+6783310	Fanconi_Anemia_Pathway	94	95	13	4							50	2	0.9615384615384616
+177929	Signaling_by_EGFR	180	220	25	6							84	66	0.56
+5654743	Signaling_by_FGFR4	151	170	15	9							94	41	0.6962962962962963
+5654738	Signaling_by_FGFR2	215	251	17	10							111	59	0.6529411764705882
+427413	NoRC_negatively_regulates_rRNA_expression	110	112	13	1							11	2	0.8461538461538461
+2559583	Cellular_Senescence	441	510	35	10							325	25	0.9285714285714286
+109606	Intrinsic_Pathway_for_Apoptosis	170	191	23	12							260	16	0.9420289855072463
+6785807	Interleukin-4_and_Interleukin-13_signaling	225	238	55	23							1187	78	0.9383399209486166
+1502540	Signaling_by_Activin	42	48	27	3							69	12	0.8518518518518519
+428359	Insulin-like_Growth_Factor-2_mRNA_Binding_Proteins_(IGF2BPs/IMPs/VICKZs)_bind_RNA	22	28	9	3							25	2	0.9259259259259259
+186797	Signaling_by_PDGF	308	324	23	13							294	5	0.9832775919732442
+5625740	RHO_GTPases_activate_PKNs	140	150	23	5							99	16	0.8608695652173913
+5693532	DNA_Double-Strand_Break_Repair	466	515	89	18							1094	508	0.682896379525593
+73893	DNA_Damage_Bypass	173	184	19	7							126	7	0.9473684210526315
+446728	Cell_junction_organization	196	192	27	31							823	14	0.983273596176822
+1433557	Signaling_by_SCF-KIT	131	141	29	9							249	12	0.9540229885057471
+8853659	RET_signaling	106	113	13	12							154	2	0.9871794871794872
+5693567	HDR_through_Homologous_Recombination_(HRR)_or_Single_Strand_Annealing_(SSA)	278	310	37	10	40	8	0.8333333333333334	36	12	0.75	255	115	0.6891891891891891
+198933	Immunoregulatory_interactions_between_a_Lymphoid_and_a_non-Lymphoid_cell	556	573	13	42							546	0	1
+5617472	Activation_of_anterior_HOX_genes_in_hindbrain_development_during_early_embryogenesis	220	368	13	12							61	95	0.391025641025641
+68875	Mitotic_Prophase	262	273	25	11	21	5	0.8076923076923077	24	2	0.9230769230769231	252	23	0.9163636363636364
+373752	Netrin-1_signaling	150	161	21	18							374	4	0.9894179894179894
+1980143	Signaling_by_NOTCH1	214	243	23	7							157	4	0.9751552795031055
+5626467	RHO_GTPases_activate_IQGAPs	66	69	13	3							39	0	1
+5654741	Signaling_by_FGFR3	159	181	13	10							128	2	0.9846153846153847
+74752	Signaling_by_Insulin_receptor	225	297	11	5							51	4	0.9272727272727272
+418889	Caspase_activation_via_Dependence_Receptors_in_the_absence_of_ligand	33	32	11	3							31	2	0.9393939393939394
+6794361	Neurexins_and_neuroligins	120	122	15	10							146	4	0.9733333333333334
+168928	DDX58/IFIH1-mediated_induction_of_interferon-alpha/beta	254	287	23	4							47	45	0.5108695652173914
+5693606	DNA_Double_Strand_Break_Response	186	188	27	5							132	3	0.9777777777777777
+5685939	HDR_through_MMEJ_(alt-NHEJ)	38	37	21	1							21	0	1
+512988	Interleukin-3__Interleukin-5_and_GM-CSF_signaling	165	186	19	9							171	0	1
+5358508	Mismatch_Repair	58	62	11	3							33	0	1
+5696398	Nucleotide_Excision_Repair	265	282	23	3							62	7	0.8985507246376812
+1236394	Signaling_by_ERBB4	187	198	13	12							146	10	0.9358974358974359
+453274	Mitotic_G2-G2/M_phases	443	510	13	11							79	64	0.5524475524475524
+186712	Regulation_of_beta-cell_development	96	106	9	15							97	38	0.7185185185185186
+2404192	Signaling_by_Type_1_Insulin-like_Growth_Factor_1_Receptor_(IGF1R)	160	225	13	2							22	4	0.8461538461538461
+1912422	Pre-NOTCH_Expression_and_Processing	240	297	35	6							181	29	0.861904761904762
+2172127	DAP12_interactions	142	153	25	19							465	10	0.9789473684210527
+5625900	RHO_GTPases_activate_CIT	43	43	19	5							95	0	1
+114604	GPVI-mediated_activation_cascade	136	154	13	9							113	4	0.9658119658119658
+194138	Signaling_by_VEGF	353	380	14	7							65	33	0.6632653061224489
+6806834	Signaling_by_MET	396	456	41	10							353	57	0.8609756097560975
+75153	Apoptotic_execution_phase	224	226	19	74							1402	4	0.9971550497866287
+5358351	Signaling_by_Hedgehog	439	476	11	13							108	35	0.7552447552447552
+877300	Interferon_gamma_signaling	155	161	21	17							307	50	0.8599439775910365
+69620	Cell_Cycle_Checkpoints	511	552	15	14	46	9	0.8363636363636363	49	6	0.8909090909090909	202	8	0.9619047619047619
+5673001	RAF/MAP_kinase_cascade	641	832	15	6	45	4	0.9183673469387755	49	0	1	74	16	0.8222222222222222
+1181150	Signaling_by_NODAL	64	68	31	4							124	0	1
+140534	Caspase_activation_via_Death_Receptors_in_the_presence_of_ligand	56	71	11	2							20	2	0.9090909090909091
+376176	Signaling_by_ROBO_receptors	421	448	35	24							832	8	0.9904761904761905
+170834	Signaling_by_TGF-beta_Receptor_Complex	288	326	25	8							144	56	0.72
+5221030	TET1_2_3_and_TDG_demethylate_DNA	26	37	5	1							5	0	1
+3700989	Transcriptional_Regulation_by_TP53	1107	1275	37	51	182	75	0.708171206225681	185	72	0.7198443579766537	1528	359	0.8097509273979863
+450294	MAP_kinase_activation	210	242	27	8							153	63	0.7083333333333334
+452723	Transcriptional_regulation_of_pluripotent_stem_cells	117	187	23	20							88	372	0.19130434782608696
+447115	Interleukin-12_family_signaling	202	258	21	13							271	2	0.9926739926739927
+73884	Base_Excision_Repair	239	284	29	7							199	4	0.9802955665024631
+5654736	Signaling_by_FGFR1	192	225	13	10							120	10	0.9230769230769231
+453279	Mitotic_G1-G1/S_phases	431	556	35	26	39	50	0.43820224719101125	54	35	0.6067415730337079	477	433	0.5241758241758242

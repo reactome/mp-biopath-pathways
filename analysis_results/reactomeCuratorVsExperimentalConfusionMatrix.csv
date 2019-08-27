@@ -1,0 +1,24 @@
+Reactome Curator vs Experimental,,,,,Experimental,,
+,,Down,Normal,Up,Total,PPV,F1
+,Down,307,7,16,330,0.9303030303030303,0.8809182209469153
+Reactome Curator,Normal,49,50,42,141,0.3546099290780142,0.4424778761061947
+predicted_class,Up,11,28,339,378,0.8968253968253969,0.8748387096774194
+,Total,367,85,397,849,,
+,TPR,0.8365122615803815,0.5882352941176471,0.853904282115869,,0.8197879858657244,0.7327449355768431
+Cohen's Kappa,0.7296819787985867,,,,,,
+Predicted Down,,Positive,Negative,ACC,,,
+,Positive,307,23,0.9022379269729093,,,
+,Negative,60,459,,,,
+,,,,,,,
+Predicted Normal,,Positive,Negative,ACC,,,
+,Positive,50,91,0.8515901060070671,,,
+,Negative,35,673,,,,
+,,,,,,,
+Predicted Up,,Positive,Negative,ACC,,,
+,Positive,339,39,0.8857479387514723,,,
+,Negative,58,413,,,,
+,,,,,,,
+,TP,TN,FP,FN,Total,ACC,
+Up,339,413,39,58,849,0.8857479387514723,
+Normal,50,673,91,35,849,0.8515901060070671,
+Down,307,459,23,60,849,0.9022379269729093,
